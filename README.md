@@ -1,4 +1,4 @@
-# dsa-problems
+# DSA Problems
 # 🧠 DSA Practice Repository
 
 Welcome to my **DSA (Data Structures and Algorithms)** repository!  
